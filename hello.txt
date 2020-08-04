@@ -2,6 +2,7 @@ Hello Everyone
 
 hi
 
+<<<<<<< HEAD
 Mater 1
 Mater 2
 Mater 3
@@ -11,3 +12,6 @@ Mater 6
 Mater 7
 Mater 8
 
+=======
+hello
+>>>>>>> 707daf2... change in Master
